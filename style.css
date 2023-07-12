@@ -284,9 +284,7 @@ margin-left: 300px;
 margin-top: 100px;
 margin-bottom: 100px;
 }
-.Instagram{
 
-}
 .Instagram h1{
 color: #272727;
 text-align: center;
@@ -392,5 +390,39 @@ font-weight: 700;
 margin-left: 930px;
 margin-top: 260px;
 position: absolute;
+}
+.last-manu{
+width: 1922px;
+height: 350px;
+background: #111010;
+margin-top: 130px;
+}
+.last-manu-h1{
+color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+margin-left: 50px;
+text-align: center;
+}
+.last-manu-span{
+color: #FFF;
+font-family: Lato;
+font-size: 48px;
+}
+.last-manu-h4{
+color:#FFFFFFE5;
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.last-manu-p{
+color:#FFFFFFE5;
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
 }
 
