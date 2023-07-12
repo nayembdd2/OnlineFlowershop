@@ -1,0 +1,396 @@
+.hader-cover{
+background-color: #E554731A;
+width: 1920px;
+height: 850px;
+background-size: cover;
+}
+.font-h1{
+ color: #272727;
+font-family: Lato;
+font-size: 85px;
+font-weight:800;
+display: flex;
+width: 708px;
+margin-top:197px;
+margin-left: 190px;
+display:flex;
+flex-direction: column;
+}
+.font-p{
+color:#27272799;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+display: flex;
+margin-left: 190px;
+margin-top: 16px;
+flex-direction: column;
+}
+.font-button{
+border-radius: 5px;
+border: 0;
+background-color: #E55473;
+display: inline-flex;
+padding: 20px 44px;
+align-items: flex-start;
+gap: 10px;
+color: white;
+font-size: 20px;
+font-weight: 700;
+font-family: Lato;
+margin-left: 190px;
+margin-top:16px;
+
+}
+.banar{
+    display: flex;
+}
+.profil-pick{
+width: 500px;
+height: 650px;
+margin-top:200px;
+margin-right: 150px;
+margin-bottom: 4017px;
+margin-left: 500px;
+       
+}
+.our-h1{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 24px;
+margin-top: 100px;
+margin-left: 700px;
+margin-right: 700px;
+}
+.our-p{
+color:#27272799;
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+margin-left: 663px;
+margin-right: 663px;
+}
+.inline-flower{
+    display: flex;
+    margin-bottom:10px;
+    
+}
+.first-flower{
+background: #A7216226;
+width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+margin-top:150px;
+margin-right:12px;
+margin-left:250px ;
+}
+.pink-flower{
+width: 310px;
+height: 428px;
+margin-top:110px;
+margin-right:76px ;
+margin-left:78px ;
+margin-bottom: 10px;
+
+}
+.secand-flower{
+width: 464px;
+height: 538px;
+background: #0597A026;
+border-radius: 300px 300px 0px 0px;
+margin-top:150px;
+margin-right:12px;
+margin-bottom: 500px;
+}
+.gift-flower{
+width: 370px;
+height: 370px;
+margin-top:117px;
+margin-right:47px;
+margin-bottom: 52px;
+margin-left:47px;
+}
+.fore-flower{
+width: 464px;
+height: 538px;
+background:#477D1126;
+border-radius: 300px 300px 0px 0px;
+margin-top:150px;
+margin-right:12px;
+margin-bottom:100px; 
+}
+.yellow-flower{
+width: 314px;
+height: 471px;
+margin-top:68px;
+margin-right:76px ;
+margin-left:78px ;
+margin-bottom:50px;
+
+
+}
+.first-flower,.pink-flower h3{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.secand-flower,.gift-flower h3{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.fore-flower,.yellow-flower h3{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.Layout{
+display: flex;
+background:#2727270D;
+width: 1440px;
+height: 320px;
+border:0;
+border-radius: 7px;
+margin-left: 240px;
+margin-right: 240px;
+margin-top: 0;
+margin-bottom: 300px;
+}
+.main-layout{
+width: 88px;
+height: 88px;
+margin-top: 86px;
+margin-right: 250px;
+margin-bottom: 50px;
+margin-left: 250px;
+}
+.main-layout-2{
+width: 88px;
+height: 88px;
+margin-top: 86px;
+margin-right: 250px;
+margin-bottom: 50px;
+margin-left:120px;
+}
+.main-layout-3{
+width: 88px;
+height: 88px;
+margin-top: 86px;
+margin-right: 300px;
+margin-bottom: 50px;
+margin-left:50px ;
+}
+.main-layout-h3{
+color:#272727CC;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-weight: 600;
+line-height: 30px;
+margin-left:20px;
+margin-right:70px;
+margin-top: 0;
+
+}
+.main-layout-2-h3{
+color:#272727CC;
+text-align: left;
+font-family: Lato;
+font-size: 24px;
+font-weight: 600;
+line-height: 30px;
+margin-top: 0;
+
+}
+.main-layout-3-h3{
+color:#272727CC;
+text-align:left;
+font-family: Lato;
+font-size: 24px;
+font-weight: 600;
+line-height: 30px; 
+margin-top: 0;   
+}
+#hotdeal{
+    display:flex;
+    background: #E554730D;
+    width: 1922px;
+    height: 620px;
+}
+#hotdeal h1{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-top:222px;
+margin-bottom:2px;
+margin-left:300px
+}
+#hotdeal h4{
+color: #27272799;
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-left:150px;
+display: flex;
+}
+.span-off{
+    font-family: Lato;
+    font-size: 40px;
+    color: #E55473;
+}
+.botton{
+border-radius: 5px;
+background: #E55473;
+border: 0;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 450px;
+margin-top: 32px;
+}
+.img-rose{
+width: 318px;
+height: 420px;
+margin-left: 300px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+.Instagram{
+
+}
+.Instagram h1{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 30px;
+margin-top: 128px;
+
+}
+.Instagram h4{
+color: #27272799;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+display: flex;
+width: 594px;
+flex-direction: column;
+text-align: center;
+margin-left: 663px;
+
+}
+.fore-image{
+display: flex;
+}
+.image1{
+margin-left: 240px;
+width: 342px;
+height: 396px;
+margin-right: 24px;
+}
+.image2{
+width: 342px;
+height: 396px;
+margin-right: 24px;
+}
+.image3{
+width: 342px;
+height: 396px;
+margin-right: 24px;
+}
+.image4{
+width: 342px;
+height: 396px;
+}
+.banar-image{
+width: 1440px;
+height: 449px;
+margin-left: 240px;
+margin-top: 150px;
+
+}
+.div-banar-image{
+    display: flex;
+}
+.banar-image-h1{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-top: 25px;
+position: absolute;
+text-align: center;
+margin-top: 122px;
+margin-left: 553px;
+}
+.banar-image-h4{
+color: #27272799;
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+position: absolute;
+margin-top: 180px;
+margin-left:640px;
+margin-bottom: 48px;
+}
+.form{
+width: 600px;
+height: 54px;
+position: absolute;
+margin-top: 264px;
+margin-left: 300px;
+font-size: 20px;
+}
+.sub-button{
+border-radius:6px;
+background: #E55473;
+width: 150px;
+height: 64px;
+border: 0;
+padding-top: 10px;
+padding-left: 35px;
+padding-bottom: 10px;
+display: flex;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+align-items: center;
+font-weight: 700;
+margin-left: 930px;
+margin-top: 260px;
+position: absolute;
+}
+
